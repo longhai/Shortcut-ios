@@ -15,7 +15,10 @@
         "TV Provider": "prefs:root=VIDEO_SUBSCRIBER",
     },
     "Browse by app": {
-        "1.1.1.1": "https://www.icloud.com/shortcuts/c1a1c9bc14ae441fa1d3991027b78a4e",
+        "1.1.1.1": {
+            "Tắt VPN": "https://www.icloud.com/shortcuts/c1a1c9bc14ae441fa1d3991027b78a4e",
+            "Mở VPN": "prefs:root=GAMECENTER&path=Add%20Friends"
+        },
     },
     "Settings For App…": "prefs:root=[App Bundle ID]"
 }
