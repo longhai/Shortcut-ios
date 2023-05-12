@@ -14,6 +14,8 @@
         "Podcasts": "prefs:root=com.apple.podcasts",
         "TV Provider": "prefs:root=VIDEO_SUBSCRIBER",
     },
-    
+    "Browse by app": {
+        "1.1.1.1": "https://www.icloud.com/shortcuts/c1a1c9bc14ae441fa1d3991027b78a4e",
+    },
     "Settings For App…": "prefs:root=[App Bundle ID]"
 }
