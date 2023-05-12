@@ -16,8 +16,8 @@
     },
     "Browse by app": {
         "1.1.1.1": {
-            "Tắt VPN": "https://www.icloud.com/shortcuts/c1a1c9bc14ae441fa1d3991027b78a4e",
-            "Mở VPN": "prefs:root=GAMECENTER&path=Add%20Friends"
+            "Turn off VPN": "https://www.icloud.com/shortcuts/c1a1c9bc14ae441fa1d3991027b78a4e",
+            "Open VPN": "prefs:root=GAMECENTER&path=Add%20Friends",
         },
     },
     "Settings For App…": "prefs:root=[App Bundle ID]"
